@@ -10,7 +10,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(135deg, #dfe9f3, #a1c4fd);
+  background: linear-gradient(135deg, #292b2d, #a1c4fd);
 }
 
 .card {
@@ -35,6 +35,11 @@
 h2 {
   margin: 10px 0 20px;
   color: #333;
+}
+
+input {
+  color: black;
+  background-color: white;
 }
 
 .input-box {
